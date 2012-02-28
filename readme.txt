@@ -10,14 +10,14 @@ Adds menus to the WordPress Toolbar to display blog, page, post and attachment I
 
 == Description ==
 
-The RPS Blog Info plugin uncovers previously obscured but valuable information about blogs, posts, pages, and attachments, and places it in the WordPress Toolbar for convenience. The Toolbar displays the blog ID (for multisite configurations) and post ID for pages, posts and attachments; hovering over those items reveals menus with the following information:
+The RPS Blog Info plugin uncovers previously obscured but valuable information about blogs, posts, pages and attachments, and places it in the WordPress Toolbar for convenience. The Toolbar displays the blog ID (for multisite configurations) and post ID for pages, posts and attachments; hovering over those items reveals menus with the following information:
 
-For blogs:
+= For blogs: =
 * Updated: Date and Time
 * Domain
 * Search Engines: Index/No Index
 
-For posts/pages:
+= For posts/pages: =
 * Updated: Date and Time
 * Status: Published/Pending/Draft
 * Password: Yes/No
@@ -26,7 +26,7 @@ For posts/pages:
 * Slug
 * Author
 
-For attachments:
+= For attachments: =
 * Updated: Date and Time
 * Slug
 * Author
