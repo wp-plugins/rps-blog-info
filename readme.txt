@@ -35,7 +35,7 @@ RPS Blog Info menus are available to users that have permission to edit pages or
 
 == Installation ==
 
-1. Upload the `rps-toolbar-info` directory and its containing files to the `/wp-content/plugins/` directory.
+1. Upload the `rps-blog-info` directory and its containing files to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the "Plugins" menu in WordPress.
 
 == Screenshots ==
