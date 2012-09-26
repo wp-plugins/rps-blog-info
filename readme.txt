@@ -1,6 +1,6 @@
 === RPS Blog Info ===
 Contributors: redpixelstudios
-Donate link: http://redpixel.com/
+Donate link: http://redpixel.com/donate
 Tags: toolbar, blog id, post id, page id, attachment id, blog information, post information, status, date modified, date created
 Requires at least: 3.3
 Tested up to: 3.4.1
