@@ -77,33 +77,7 @@ class RPS_Blog_Info {
 			$blog_domain = $blog_url['host'];
 
 		endif;
-		
-		global $_wp_admin_css_colors;
-		$admin_color_scheme = get_user_meta(get_current_user_id(), 'admin_color', true);
-		
-		/* $_wp_admin_css_colors[$admin_color_scheme]
-		stdClass Object
-		(
-		    [name] => Default
-		    [url] => 
-		    [colors] => Array
-		        (
-		            [0] => #222
-		            [1] => #333
-		            [2] => #0073aa
-		            [3] => #00a0d2
-		        )
-		
-		    [icon_colors] => Array
-		        (
-		            [base] => #999
-		            [focus] => #00a0d2
-		            [current] => #fff
-		        )
-		
-		)
-		*/
-		
+				
 		$blog_public = ( $multisite ) ? $blog_details->public : get_option( 'blog_public' );
 		$blog_public_status = ( absint( $blog_public ) === 0 ) ? __( 'No Index', 'rps-blog-info' ) : __( 'Index', 'rps-blog-info' );
 		
