@@ -1,2 +1,2 @@
 === RPS Blog Info ===
-Stable tag: 1.0.4
+Stable tag: 1.0.5
